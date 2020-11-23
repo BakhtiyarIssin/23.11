@@ -66,9 +66,6 @@ public class Main {
         }
         while (!word.equals("exit"));
 
-       // System.out.println(Arrays.toString(list.toArray()));
-
-       // System.out.println(Arrays.toString(tokens.toArray()));
 
 
 
